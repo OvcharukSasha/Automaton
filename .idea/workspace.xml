@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10f30a24-562a-4399-9b52-0d72bdd2c044" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sislab2_automaton/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sislab2_automaton/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sislab2_automaton/file_automat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -197,7 +192,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553443842692" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553443927755" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
@@ -238,6 +233,21 @@
       <option name="presentableId" value="Default" />
       <updated>1537019095221</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Relative Path to file autom added&quot;">
+      <created>1553443907863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553443907864</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Relative Path to file autom added&quot;">
+      <created>1553443922660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553443922660</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -272,6 +282,10 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Relative Path to file autom added&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Relative Path to file autom added&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
