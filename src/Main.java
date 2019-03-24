@@ -11,7 +11,7 @@ public class Main {
     {
         try {
             FindingWords fw = new FindingWords();
-            fw.solve("C:\\Users\\Sasha Ovcharuk\\sislab2_automaton\\out\\production\\sislab2_automaton\\file_automat.txt");
+            fw.solve("out/production/sislab2_automaton/autom");
         }
 
         catch(Exception e)
