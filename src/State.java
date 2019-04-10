@@ -1,3 +1,5 @@
+import jdk.nashorn.internal.objects.annotations.Getter;
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -11,7 +13,9 @@ public class State
     public boolean isfinal;
     public boolean isfirst;
     public int check;
-
+public ArrayList<State> getNextstate(){
+    return nextstate;
+}
     public State(int num)
     {
         state=num;
