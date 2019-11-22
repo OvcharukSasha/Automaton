@@ -102,7 +102,7 @@ public class FindingWords {
                         w = "(" + w + ")";
                         word.add(w);
 
-                        prev.SetCheck(true);
+                        prev.SetCheck(false);
 
                     } else {
                         word.add(w);
